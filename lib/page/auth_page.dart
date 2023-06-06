@@ -91,7 +91,7 @@ class AuthPage extends StatelessWidget {
   }) =>
       ElevatedButton.icon(
         style: ElevatedButton.styleFrom(
-          backgroundColor: Color.fromARGB(255, 34, 109, 12),
+          backgroundColor: Color.fromARGB(255, 139, 195, 74),
           minimumSize: const Size.fromHeight(50),
         ),
         icon: Icon(icon, size: 26),
